@@ -1,3 +1,5 @@
+# resubmit pull request or travis ci
+
 language: ruby
 
 rvm:
